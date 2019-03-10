@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6833" started-at="2019-03-09T10:32:17Z" finished-at="2019-03-09T10:32:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6833" started-at="2019-03-09T10:32:17Z" finished-at="2019-03-09T10:32:24Z">
+      <class name="org.maven.automation.qauto.testscripts.WebDriverPrac">
+        <test-method status="PASS" signature="test()[pri:0, instance:org.maven.automation.qauto.testscripts.WebDriverPrac@7f9a81e8]" name="test" duration-ms="6807" started-at="2019-03-09T16:02:17Z" finished-at="2019-03-09T16:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- org.maven.automation.qauto.testscripts.WebDriverPrac -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
